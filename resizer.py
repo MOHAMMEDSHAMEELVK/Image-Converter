@@ -1,9 +1,14 @@
 import typer
+from PIL import Image
 
 
-def main(name: str):
-    typer.echo(f"Hello {name}")
+def main(imageFaileName: str):
+
+    im = Image.open(imageFileName)
+    im.show()
 
 
 if __name__ == "__main__":
     typer.run(main)
+
+
