@@ -3,16 +3,16 @@
 It is simple python image converter.
 A command-line image format tool using which we can convert image format, resize the image, and other optional preprocessing. One can pass a single image path or image folder. 
 
-##Team members
-1.MOHAMMED SHAMEEL VK( https://github.com/shameel1133 )
+## Team members
+1.MOHAMMED SHAMEEL VK( https://github.com/shameel1133 )<br>
 2.C A Muhammed Aman ( https://github.com/amanmuhammed )
 
-##Team Id
-###Python / 372
+## Team Id
+### Python / 372
 
-##Link to product walkthrough
+## Link to product walkthrough
 
-##How it Works ?
+## How it Works ?
 1.step 1
 
 2.step2
