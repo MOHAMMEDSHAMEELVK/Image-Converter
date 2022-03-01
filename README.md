@@ -1,8 +1,27 @@
-# Simple-Image-Converter
+# Image Converter - Resizer Cli
 
-A simple python image converter
+It is simple python image converter.
+A command-line image format tool using which we can convert image format, resize the image, and other optional preprocessing. One can pass a single image path or image folder. 
 
-## Installation:
+##Team members
+1.MOHAMMED SHAMEEL VK( https://github.com/shameel1133 )
+2.C A Muhammed Aman ( https://github.com/amanmuhammed )
+
+##Team Id
+###Python / 372
+
+##Link to product walkthrough
+
+##How it Works ?
+1.step 1
+
+2.step2
+
+## Libraries used:
+
+- [Pillow](https://python-pillow.org/)
+
+##How to configure Instructions for setting up project
 
 Install pillow using pip.
 
@@ -10,7 +29,7 @@ Install pillow using pip.
 pip install pillow
 ```
 
-## Usage:
+## How to Run
 
 ```bash
 Usage:
@@ -40,6 +59,3 @@ python resizer.py image.jpeg -f png
 python resizer.py image.jpeg -r 200x200
 ```
 
-## Libraries used:
-
-- [Pillow](https://python-pillow.org/)
