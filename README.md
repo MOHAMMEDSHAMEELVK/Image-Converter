@@ -13,9 +13,9 @@ A command-line image format tool using which we can convert image format, resize
 ## Link to product walkthrough
 
 ## How it Works ?
-### 1.step 1 :select the image
+### 1.step 1 :type the (python resizer.py) command in command line 
 
-### 2.step 2 :python resizer.py [selected image name] [operation] [argument]
+### 2.step 2 :select the  format options 
 
 ## Libraries used:
 
