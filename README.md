@@ -1,7 +1,7 @@
 # PIKSEL
 
 It is simple python image converter.
-A command-line image format tool using which we can convert image format, resize the image, and other optional preprocessing. One can pass a single image path or image folder. 
+A command-line image format tool using which we can convert image format, resize the image. One can pass a single image path or image folder. 
 
 ## Team members
 1.MOHAMMED SHAMEEL VK( https://github.com/shameel1133 )<br>
@@ -11,19 +11,24 @@ A command-line image format tool using which we can convert image format, resize
 ### Python / 372
 
 ## Link to product walkthrough
+<a href="https://www.loom.com/share/e5e70e691c1e4e7b934c836efbeeb225">Application walkthrough video</a>
 
 ## How it Works ?
-### 1.step 1 :type the (python resizer.py) command in command line 
+### step 1 :type the (python resizer.py) command in command line 
 
-### 2.step 2 :select the  format options 
+### step 2 :select the image 
+
+### step 3 :select the commant
+
 
 ## Libraries used:
 
 - [Pillow](https://python-pillow.org/)
 
-##How to configure Instructions for setting up project
 
-Install pillow using pip.
+## How to configure Instructions for setting up project
+
+Install pillow using pip:
 
 ```bash
 pip install pillow
