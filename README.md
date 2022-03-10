@@ -12,6 +12,8 @@ A command-line image format tool using which we can convert image format, resize
 
 ## Link to product walkthrough
 <a href="https://www.loom.com/share/e5e70e691c1e4e7b934c836efbeeb225">Application walkthrough video</a>
+<BR>
+<a href="https://piksel-app.herokuapp.com/">Live App</a>
 
 ## How it Works ?
 ### step 1 :type the (python resizer.py) command in command line 
